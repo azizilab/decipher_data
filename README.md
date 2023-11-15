@@ -1,2 +1,2 @@
-# decipher_data
-Data (small) for decipher tutorials.
+# Decipher data
+Small datasets for the Decipher tutorials.
